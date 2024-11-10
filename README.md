@@ -29,6 +29,6 @@ INSTALASI
 
 -sudo pip3 install -r requirements.txt
 
--sudo python3 cyScan.py
+-sudo python3 scan.py
 
 Dibutuhkan SuperUser(root)
